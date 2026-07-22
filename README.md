@@ -1,3 +1,5 @@
+I've new plans for this project. A full chrome and firefox extension.
+
 # reddit-save
 - Tampermonkey extension to download Reddit videos more quickly
 - It uses rapidsave.com to get the download link
